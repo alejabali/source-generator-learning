@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessErrorConsole", "BusinessErrorConsole\BusinessErrorConsole.csproj", "{297DAD39-8398-4EAF-A17B-9E027362C9D4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessErrorGenerator", "BusinessErrorGenerator\BusinessErrorGenerator.csproj", "{E1740CA0-DB7C-43D2-8F1E-55EBEFAF7AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessErrorShared", "BusinessErrorShared\BusinessErrorShared.csproj", "{EDCA3A9E-53BE-44BC-ACC3-BE87A5FCE2C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E1740CA0-DB7C-43D2-8F1E-55EBEFAF7AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1740CA0-DB7C-43D2-8F1E-55EBEFAF7AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1740CA0-DB7C-43D2-8F1E-55EBEFAF7AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCA3A9E-53BE-44BC-ACC3-BE87A5FCE2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCA3A9E-53BE-44BC-ACC3-BE87A5FCE2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCA3A9E-53BE-44BC-ACC3-BE87A5FCE2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCA3A9E-53BE-44BC-ACC3-BE87A5FCE2C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
